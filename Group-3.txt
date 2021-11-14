@@ -11,15 +11,6 @@ Group Members:
 
 Project Name: Short-term job management system
 
-<<<<<<< HEAD
-This is our code
-=======
-This is our code
-our code 
-this is edited by aminul
-**project work****edited by bayejid bostami
-Short-term job management system
-lab task
-Git hosted by Hasan,Maruf.
+This is our project  code
 
->>>>>>> 5a43a3a0ea8c238b107d1dd019c326ad4e04100f
+
